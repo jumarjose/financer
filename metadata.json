@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Gestor Financeiro e Agenda Inteligente",
+  "description": "Aplicativo moderno de gestão financeira pessoal e agenda inteligente integrado ao Google Calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
